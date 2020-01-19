@@ -6,6 +6,7 @@ public class Main {
         System.out.println("This is experimental");
         System.out.println("This is Experiment2");
         System.out.println("I did this in Boot Branch");
-        System.out.println("I did this in new branch exactly at the same line");
+        System.out.println("I added navbar branch iam going to create a merge conflict");
+
     }
 }
